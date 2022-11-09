@@ -1,0 +1,114 @@
+nav{
+    overflow: hidden;
+    background-color: #fff;
+    position: sticky;
+    top: 0;
+    align-items: center;
+    display: flex; 
+    justify-content: center;
+    z-index: 10;
+}
+
+
+nav a{
+    color: #000;
+    font-size: 17px;
+    font-family: Arial;
+    height: 60px;
+    width: 280px;
+    padding: 10px;
+    font-weight: 100;
+    align-items: center;
+    display: flex; 
+    justify-content: center;
+    user-select: none;
+    text-decoration: none;
+}
+
+nav a:hover{
+    background-color: rgb(255, 255, 255);
+    color: #000;
+    cursor: pointer;
+}
+/*
+.nav-color a{
+    background: rgb(170, 122, 19);
+    color: #fff;
+}
+*/
+.color1{
+    background: #004000;
+    color: #fff;
+}
+
+.color2{
+    background: #005000;
+    color: #fff;
+}
+
+.color3{
+    background: #006000;
+    color: #fff;
+}
+
+.color4{
+    background: #007000;
+    color: #fff;
+}
+
+.color5{
+    background: #008000;
+    color: #fff;
+}
+
+
+.color1:hover{
+    background: #003500;
+    color: #fff;
+}
+
+.color2:hover{
+    background: #004800;
+    color: #fff;
+}
+
+.color3:hover{
+    background: #005800;
+    color: #fff;
+}
+
+.color4:hover{
+    background: #006800;
+    color: #fff;
+}
+
+.color5:hover{
+    background: #007800;
+    color: #fff;
+}
+
+
+nav a:active{
+    background-color: rgb(219, 215, 215);
+}
+
+.imgfund_1:hover{
+    background-image: ;
+}
+
+.imgfund_2:hover{
+    background-image: ;
+}
+
+.imgfund_3:hover{
+    background-image: ;
+}
+
+.imgfund_4:hover{
+    background-image: ;
+}
+
+.imgfund_5:hover{
+    background-image: ;
+}
+

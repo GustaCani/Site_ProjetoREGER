@@ -1,0 +1,16 @@
+.projeto{
+    font-family: Arial;
+    border-top: 50px;
+}
+
+.projeto h1{
+    border-left: 50px;
+}
+
+.dadosGerais{
+    font-family: Arial;
+}
+
+.mr{
+    margin-top: 80px;
+}

@@ -1,0 +1,12 @@
+.header2{
+    background-color: #020202;
+    height: 240px;
+    width: flex;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.header2 h1{
+    color: #ffffff;
+}

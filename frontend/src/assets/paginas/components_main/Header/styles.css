@@ -1,0 +1,33 @@
+.header1{
+    background: url(./AAA.png);
+    height: 240px;
+    width: flex;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+header h1{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #ffffff;
+}
+
+.lp2-logo-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.lp2-logo-container img{
+    width: 235px;
+}
+
+.lp2-logo-container h1{
+    margin: 15px;
+    font-size: 24px;
+}
+
+.lp2-logo-container p{
+    margin: 15px;
+    font-weight: 300;
+}
