@@ -5,12 +5,10 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "dev": "vite",
-    "build": "tsc && vite build",
-    "preview": "vite preview",
+    "deploy": "gh-pages -d build",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
-    
+    "start": "react-scripts start",
+    "build": "tsc && vite build"
   },
   "dependencies": {
     "@react-navigation/native": "^6.0.13",
