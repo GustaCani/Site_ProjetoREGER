@@ -1,16 +1,16 @@
 {
-  "homepage": "http://GustaCani.github.io/Site_ProjetoREGER",
+  "homepage": "https://gustacani.github.io/Site_ProjetoREGER",
   "name": "frontend",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
     "preview": "vite preview",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
+    
   },
   "dependencies": {
     "@react-navigation/native": "^6.0.13",
