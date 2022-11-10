@@ -1,9 +1,9 @@
 {
+  "homepage": "http://GustaCani.github.io/Site_ProjetoREGER",
   "name": "frontend",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "http://GustaCani.github.io/Site_ProjetoREGER",
 
   "scripts": {
     "dev": "vite",
