@@ -17,7 +17,7 @@ import Creditos from './telas/tela creditos/creditos'
 function App() {
   return (
     <>
-      <BrowserRouter>
+      <BrowserRouter >
         <Routes>
           <Route path='/' element = {<Tela1/>}/>
           <Route path='/o-que-fazemos' element = {<Tela2/>}/>
