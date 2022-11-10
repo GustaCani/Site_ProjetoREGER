@@ -17,7 +17,7 @@ import Creditos from './telas/tela creditos/creditos'
 function App() {
   return (
     <>
-      <BrowserRouter basename={process.env.PUBLIC_URL}>
+      <BrowserRouter>
         <Routes>
           <Route path='/' element = {<Tela1/>}/>
           <Route path='/o-que-fazemos' element = {<Tela2/>}/>
