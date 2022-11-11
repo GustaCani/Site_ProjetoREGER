@@ -1,0 +1,15 @@
+Para utilizar o projeto no ambiente de desenvolvimente use:
+
+"dev": "vite",
+"build": "tsc && vite build",
+"preview": "vite preview",
+
+em "scripts", arquivo package.json
+
+Para utilizar o projeto no site use:
+
+"deploy": "gh-pages -d build",
+"predeploy": "npm run build",
+"start": "react-scripts start",
+"build": "tsc && vite build"
+
