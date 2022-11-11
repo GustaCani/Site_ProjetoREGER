@@ -3,7 +3,7 @@ import './styles.css'
 function Header(){
     return(
         <header className='header6'>
-            <h1> O que fazemos </h1>
+            <h1> Dicas </h1>
         </header>
     )
 }
