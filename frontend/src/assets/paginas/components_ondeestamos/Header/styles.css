@@ -1,0 +1,12 @@
+.header3{
+    background-color: #000000;
+    height: 240px;
+    width: flex;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.header3 h1{
+    color: #ffffff;
+}
